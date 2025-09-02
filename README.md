@@ -4,3 +4,4 @@ first install "portaudio" python
 it uses python (3.10.18)
 then install "rqeuirements.txt",using 'pip install requirements.txt'
 it will accept commands after "jarvis" keyword,example :"jarvis .....(task)...."
+llm which i have used 'ollama run llama3.1:8b'
